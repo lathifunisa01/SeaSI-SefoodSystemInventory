@@ -1,0 +1,35 @@
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.exe.config
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.exe
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.pdb
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.xml
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Release\MySql.Data.dll
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.AssemblyReference.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.home.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.login.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.Resources.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.GenerateResource.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.CoreCompileInputs.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.CopyComplete
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.exe
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.xml
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.pdb
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.databarang.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.exe.config
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.exe
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.pdb
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Release\projectaplikasi.xml
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Release\MySql.Data.dll
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.AssemblyReference.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.SuggestedBindingRedirects.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.databarang.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.datagudang.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.home.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.login.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.Resources.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.GenerateResource.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.CoreCompileInputs.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.vbproj.CopyComplete
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.exe
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.xml
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Release\projectaplikasi.pdb

@@ -1,0 +1,60 @@
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.exe
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Debug\MySql.Data.dll
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.exe.config
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.AssemblyReference.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.SuggestedBindingRedirects.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.databarang.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.datagudang.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.home.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.login.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.Resources.resources
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.GenerateResource.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.CoreCompileInputs.cache
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.CopyComplete
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.exe
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.xml
+D:\PEMROGRAMAN\VS Code\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.pdb
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.exe.config
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.exe
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.pdb
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.xml
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\bin\Debug\MySql.Data.dll
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.AssemblyReference.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.barangkeluar.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.barangmasuk.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.databarang.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.datagudang.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.datapelanggan.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.datapemasok.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.home.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.login.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.Resources.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.pengguna.resources
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.GenerateResource.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.CoreCompileInputs.cache
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.CopyComplete
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.exe
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.xml
+C:\Users\DIMAS\source\repos\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.pdb
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.exe.config
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.exe
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.pdb
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\bin\Debug\projectaplikasi.xml
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.barangkeluar.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.barangmasuk.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.databarang.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.datagudang.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.datapelanggan.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.datapemasok.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.home.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.login.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.Resources.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.pengguna.resources
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.vbproj.CopyComplete
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.exe
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.xml
+C:\Users\ACER\OneDrive\Documents\PTI 03\projectaplikasi\projectaplikasi\obj\Debug\projectaplikasi.pdb
